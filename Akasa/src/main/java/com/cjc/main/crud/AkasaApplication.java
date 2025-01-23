@@ -8,6 +8,9 @@ public class AkasaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AkasaApplication.class, args);
+
+
+		System.out.println("LINE ADDED");
 	}
 
 }
