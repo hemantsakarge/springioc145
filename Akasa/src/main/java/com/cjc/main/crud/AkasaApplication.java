@@ -11,6 +11,7 @@ public class AkasaApplication {
 
 
 		System.out.println("LINE ADDED");
+		System.out.println("LINE ADDED");
 	}
 
 }
